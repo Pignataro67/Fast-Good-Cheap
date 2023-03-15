@@ -16,12 +16,12 @@ body {
 }
 
 .toggle-container {
-    display: flex;
-    align-items: center;
-    margin: 15px 0;
-    width: 200px;
-  }
+  display: flex;
+  align-items: center;
+  margin: 15px 0;
+  width: 200px;
+}
   
-  .toggle {
-    visibility: hidden;
-  }
+.toggle {
+  visibility: hidden;
+}
