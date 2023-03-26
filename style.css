@@ -19,3 +19,7 @@ body {
   overflow: hidden;
   margin: 5;
 }    
+
+.container {
+    text-align: center;
+  }
