@@ -23,3 +23,7 @@ body {
 .container {
     text-align: center;
   }
+
+  .circle.active {
+    border-color: var(--line-border-fill);
+  }
