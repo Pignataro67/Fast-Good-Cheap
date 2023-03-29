@@ -15,7 +15,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 95vh;
   overflow: hidden;
   margin: 10;
 }    
@@ -32,7 +32,7 @@ body {
   background-color: var(--line-border-fill);
   color: #fff;
   border: 0;
-  border-radius: 6px;
+  border-radius: 5px;
   cursor: pointer;
   font-family: inherit;
   padding: 5px 30px;
