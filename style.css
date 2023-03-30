@@ -37,11 +37,11 @@ body {
   font-family: inherit;
   padding: 5px 30px;
   margin: 10px;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .btn:active {
-  transform: scale(0.98);
+  transform: scale(0.95);
 }
 
 .btn:focus {
