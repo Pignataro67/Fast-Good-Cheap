@@ -36,8 +36,8 @@ body {
   cursor: pointer;
   font-family: inherit;
   padding: 10px 30px;
-  margin: 15px;
-  font-size: 15px;
+  margin: 12px;
+  font-size: 12px;
 }
 
 .btn:active {
